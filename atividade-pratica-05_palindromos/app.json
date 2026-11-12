@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "atividade-pratica-05_palindromos",
+    "slug": "snack-a7b6c022-2a52-4855-9c8e-a06f96170015",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": " Fazer um software para smartphone que fazer a leitura de um texto ou frase e diga \nse é um palíndromo ou não"
+  }
+}
